@@ -17,7 +17,7 @@ I'm trying to keep this repo updated and refresh. Also, I'd be happy to see cont
 ------------
 ### JavaScript Flavors
 Languages that compile to JavaScript
-- TypeScript
+- [TypeScript](httphttps://github.com/amirhosseinrahmati/try-typescript:// "TypeScript")
 - Elm
 - Dart
 - PureScript
