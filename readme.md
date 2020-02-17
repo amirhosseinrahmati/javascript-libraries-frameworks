@@ -17,7 +17,7 @@ I'm trying to keep this repo updated and refresh. Also, I'd be happy to see cont
 ------------
 ### JavaScript Flavors
 Languages that compile to JavaScript
-- [TypeScript](httphttps://github.com/amirhosseinrahmati/try-typescript:// "TypeScript")
+- [TypeScript](https://github.com/amirhosseinrahmati/try-typescript "TypeScript")
 - Elm
 - Dart
 - PureScript
@@ -45,7 +45,6 @@ Loading and managing data in your app
 - Relay
 - MobX
 - React Hooks
-- Vuex
 ------------
 ### Back End Frameworks
 Run JavaScript on the server
